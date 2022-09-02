@@ -14,4 +14,27 @@ This is gonna be my portfolio website, as well as my personal space where I will
 
 😄 And whatever else, I feel for. 
 
-### <a href="https://patrickskovgaard.github.io/PatrickSkovgaard/about.html">Click me</a>
+<a href="https://patrickskovgaard.github.io/PatrickSkovgaard/about.html">Click me</a>
+
+
+# test #
+## test ##
+### test ###
+#### test ####
+##### test #####
+###### test ######
+####### test #######
+
+*test*
+**test**
+***test***
+****test****
+*****test*****
+******test******
+*******test*******
+
+''' t '''
+
+´´´ t ´´´
+
+``` t ```
