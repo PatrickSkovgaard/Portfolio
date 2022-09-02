@@ -27,3 +27,7 @@ This is gonna be my portfolio website, as well as my personal space where I will
 🤔 Random coding ideas that I come up with 
 
 😄 And whatever else, I feel for. 
+
+
+Next site:
+https://patrickskovgaard.github.io/patrickskovgaard/about.html
