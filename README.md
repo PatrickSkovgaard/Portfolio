@@ -1,22 +1,8 @@
-### Hi there 👋
-
-<!--
-**PatrickSkovgaard/PatrickSkovgaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋
+<br>
 
 This is gonna be my portfolio website, as well as my personal space where I will put things of interest to me, such as:
-
+<br><br>
 
 📫 My portfolio, skills, certifications, education, and more..
 
@@ -28,4 +14,4 @@ This is gonna be my portfolio website, as well as my personal space where I will
 
 😄 And whatever else, I feel for. 
 
-**<a href="https://patrickskovgaard.github.io/PatrickSkovgaard/about.html">Click me</a>**
+### <a href="https://patrickskovgaard.github.io/PatrickSkovgaard/about.html">Click me</a>
