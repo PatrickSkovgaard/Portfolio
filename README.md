@@ -28,6 +28,4 @@ This is gonna be my portfolio website, as well as my personal space where I will
 
 😄 And whatever else, I feel for. 
 
-
-Next site:
-### ***https://patrickskovgaard.github.io/patrickskovgaard/about.html
+<a href="https://patrickskovgaard.github.io/patrickskovgaard/about.html">Click me</a>
