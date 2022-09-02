@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is gonna be my portfolio website, as well as my personal space where I will put things of interest to me, such as:
+
+
+📫 My portfolio, skills, certifications, education, and more..
+
+🔭 Cyber Security tools and scripts
+
+⚡ Links and references to Cyber Security related stuff
+
+🤔 Random coding ideas that I come up with 
+
+😄 And whatever else, I feel for. 
