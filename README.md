@@ -14,7 +14,11 @@ This is gonna be my portfolio website, as well as my personal space where I will
 
 😄 And whatever else, I feel for. 
 
-<a href="https://patrickskovgaard.github.io/PatrickSkovgaard/about.html">Click me</a> <br><br>
+<a href="https://patrickskovgaard.github.io/Portfolio/about.html">Click me</a> 
+
+
+
+<!-- <br><br>
 #
 # <strong>Notes for editing README.MD</strong> 
 <br><br>
@@ -25,14 +29,15 @@ This is gonna be my portfolio website, as well as my personal space where I will
 #### test --  Small text, no underline -> 4 pound symbols
 ##### test --  Very small text, no underline -> 5 pound symbols
 ###### test --  Smallest text, no underline -> 6 pound symbols
-#
-<div>
+# -->
+<!-- <div>
   
-  *test*  -- cursive, thin --> 1 asterisk  <br>
-  **test**  -- non-cursive, a little bold --> 2 asterisks  <br>
-  ***test***  -- cursive, bold --> 3 asterisks  <br>
-
-</div>
+  *test*  -- cursive, thin -> 1 asterisk  <br>
+  **test**  -- non-cursive, a little bold -> 2 asterisks  <br>
+  ***test***  -- cursive, bold -> 3 asterisks  <br>
+  
+</div>  
 <br>
 
-``` Alert("this is code") ```  --> code format. 3 backticks on either side.
+``` Alert("this is code") ```   code format. 3 backticks on either side.
+-->
