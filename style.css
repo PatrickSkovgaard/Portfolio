@@ -5,7 +5,7 @@
   }
 }
 
-div{
+#bh{
   background: #000;
   border-block: 2px #ff0000;
   border-radius: 50%;
@@ -17,7 +17,7 @@ div{
   animation: go linear infinite 70ms;
 }
 
-body{
+#body{
   display: flex;
   justify-content: center;
   align-items: center;
